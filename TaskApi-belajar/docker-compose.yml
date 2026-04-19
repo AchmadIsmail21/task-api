@@ -1,6 +1,6 @@
 services:
   api:
-    image: taskapi:latest
+    image: achmad21/taskapi:latest
     container_name: taskapi
     ports:
       - "8080:8080"
