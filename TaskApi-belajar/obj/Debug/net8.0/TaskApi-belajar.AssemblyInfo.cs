@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskApi-belajar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6215ff39def1bb133199c4f4c2abe13cee612a58")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+217578ffa1270dc2935f3fd51936a0450c5f1120")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskApi-belajar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskApi-belajar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
