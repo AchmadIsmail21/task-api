@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\.github\\workflows\\main.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflows\\main.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CEA10A41-4506-471E-B41A-8DBEC19A0342}|TaskApi-belajar\\TaskApi-belajar.csproj|c:\\users\\achma\\source\\repos\\taskapi-belajar\\taskapi-belajar\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CEA10A41-4506-471E-B41A-8DBEC19A0342}|TaskApi-belajar\\TaskApi-belajar.csproj|solutionrelative:taskapi-belajar\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -62,11 +66,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "main.yml",
+              "DocumentMoniker": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\.github\\workflows\\main.yml",
+              "RelativeDocumentMoniker": ".github\\workflows\\main.yml",
+              "ToolTip": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\.github\\workflows\\main.yml",
+              "RelativeToolTip": ".github\\workflows\\main.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-04-19T05:55:28.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\Models\\User.cs",
               "RelativeDocumentMoniker": "TaskApi-belajar\\Models\\User.cs",
@@ -78,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TaskService.cs",
               "DocumentMoniker": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\Services\\Data\\TaskService.cs",
               "RelativeDocumentMoniker": "TaskApi-belajar\\Services\\Data\\TaskService.cs",
@@ -90,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "TaskResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\DTOs\\TaskResponseDTO.cs",
               "RelativeDocumentMoniker": "TaskApi-belajar\\DTOs\\TaskResponseDTO.cs",
@@ -102,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ITaskService.cs",
               "DocumentMoniker": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\Services\\Interface\\ITaskService.cs",
               "RelativeDocumentMoniker": "TaskApi-belajar\\Services\\Interface\\ITaskService.cs",
@@ -114,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "TaskRepository.cs",
               "DocumentMoniker": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\Repositories\\Data\\TaskRepository.cs",
               "RelativeDocumentMoniker": "TaskApi-belajar\\Repositories\\Data\\TaskRepository.cs",
@@ -126,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ITaskRepository.cs",
               "DocumentMoniker": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\Repositories\\Interface\\ITaskRepository.cs",
               "RelativeDocumentMoniker": "TaskApi-belajar\\Repositories\\Interface\\ITaskRepository.cs",
@@ -138,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "CreateTaskDTO.cs",
               "DocumentMoniker": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\DTOs\\CreateTaskDTO.cs",
               "RelativeDocumentMoniker": "TaskApi-belajar\\DTOs\\CreateTaskDTO.cs",
@@ -150,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\Program.cs",
               "RelativeDocumentMoniker": "TaskApi-belajar\\Program.cs",
@@ -162,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\appsettings.json",
               "RelativeDocumentMoniker": "TaskApi-belajar\\appsettings.json",
@@ -175,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "TaskApi-belajar\\Data\\AppDbContext.cs",
@@ -187,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\docker-compose.yml",
               "RelativeDocumentMoniker": "TaskApi-belajar\\docker-compose.yml",
@@ -199,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "TaskController.cs",
               "DocumentMoniker": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\Controllers\\TaskController.cs",
               "RelativeDocumentMoniker": "TaskApi-belajar\\Controllers\\TaskController.cs",
@@ -211,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\Dockerfile",
               "RelativeDocumentMoniker": "TaskApi-belajar\\Dockerfile",
