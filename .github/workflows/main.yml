@@ -27,4 +27,4 @@ jobs:
         run: dotnet test TaskApi-belajar/TaskApi-belajar.csproj --no-build
 
       - name: Build Docker Image
-        run: docker build -t taskapi:latest .
+        run: docker build -t taskapi:latest ./TaskApi-belajar
