@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA10A41-4506-471E-B41A-8DBEC19A0342}|TaskApi-belajar\\TaskApi-belajar.csproj|c:\\users\\achma\\source\\repos\\taskapi-belajar\\taskapi-belajar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA10A41-4506-471E-B41A-8DBEC19A0342}|TaskApi-belajar\\TaskApi-belajar.csproj|solutionrelative:taskapi-belajar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA10A41-4506-471E-B41A-8DBEC19A0342}|TaskApi-belajar\\TaskApi-belajar.csproj|c:\\users\\achma\\source\\repos\\taskapi-belajar\\taskapi-belajar\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CEA10A41-4506-471E-B41A-8DBEC19A0342}|TaskApi-belajar\\TaskApi-belajar.csproj|solutionrelative:taskapi-belajar\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA10A41-4506-471E-B41A-8DBEC19A0342}|TaskApi-belajar\\TaskApi-belajar.csproj|c:\\users\\achma\\source\\repos\\taskapi-belajar\\taskapi-belajar\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CEA10A41-4506-471E-B41A-8DBEC19A0342}|TaskApi-belajar\\TaskApi-belajar.csproj|solutionrelative:taskapi-belajar\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA10A41-4506-471E-B41A-8DBEC19A0342}|TaskApi-belajar\\TaskApi-belajar.csproj|c:\\users\\achma\\source\\repos\\taskapi-belajar\\taskapi-belajar\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CEA10A41-4506-471E-B41A-8DBEC19A0342}|TaskApi-belajar\\TaskApi-belajar.csproj|solutionrelative:taskapi-belajar\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA10A41-4506-471E-B41A-8DBEC19A0342}|TaskApi-belajar\\TaskApi-belajar.csproj|c:\\users\\achma\\source\\repos\\taskapi-belajar\\taskapi-belajar\\services\\data\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA10A41-4506-471E-B41A-8DBEC19A0342}|TaskApi-belajar\\TaskApi-belajar.csproj|solutionrelative:taskapi-belajar\\services\\data\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA10A41-4506-471E-B41A-8DBEC19A0342}|TaskApi-belajar\\TaskApi-belajar.csproj|c:\\users\\achma\\source\\repos\\taskapi-belajar\\taskapi-belajar\\repositories\\data\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA10A41-4506-471E-B41A-8DBEC19A0342}|TaskApi-belajar\\TaskApi-belajar.csproj|solutionrelative:taskapi-belajar\\repositories\\data\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA10A41-4506-471E-B41A-8DBEC19A0342}|TaskApi-belajar\\TaskApi-belajar.csproj|c:\\users\\achma\\source\\repos\\taskapi-belajar\\taskapi-belajar\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA10A41-4506-471E-B41A-8DBEC19A0342}|TaskApi-belajar\\TaskApi-belajar.csproj|solutionrelative:taskapi-belajar\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA10A41-4506-471E-B41A-8DBEC19A0342}|TaskApi-belajar\\TaskApi-belajar.csproj|c:\\users\\achma\\source\\repos\\taskapi-belajar\\taskapi-belajar\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA10A41-4506-471E-B41A-8DBEC19A0342}|TaskApi-belajar\\TaskApi-belajar.csproj|solutionrelative:taskapi-belajar\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA10A41-4506-471E-B41A-8DBEC19A0342}|TaskApi-belajar\\TaskApi-belajar.csproj|c:\\users\\achma\\source\\repos\\taskapi-belajar\\taskapi-belajar\\repositories\\interface\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA10A41-4506-471E-B41A-8DBEC19A0342}|TaskApi-belajar\\TaskApi-belajar.csproj|solutionrelative:taskapi-belajar\\repositories\\interface\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA10A41-4506-471E-B41A-8DBEC19A0342}|TaskApi-belajar\\TaskApi-belajar.csproj|c:\\users\\achma\\source\\repos\\taskapi-belajar\\taskapi-belajar\\services\\interface\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA10A41-4506-471E-B41A-8DBEC19A0342}|TaskApi-belajar\\TaskApi-belajar.csproj|solutionrelative:taskapi-belajar\\services\\interface\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA10A41-4506-471E-B41A-8DBEC19A0342}|TaskApi-belajar\\TaskApi-belajar.csproj|c:\\users\\achma\\source\\repos\\taskapi-belajar\\taskapi-belajar\\dtos\\taskresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA10A41-4506-471E-B41A-8DBEC19A0342}|TaskApi-belajar\\TaskApi-belajar.csproj|solutionrelative:taskapi-belajar\\dtos\\taskresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA10A41-4506-471E-B41A-8DBEC19A0342}|TaskApi-belajar\\TaskApi-belajar.csproj|c:\\users\\achma\\source\\repos\\taskapi-belajar\\taskapi-belajar\\dtos\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA10A41-4506-471E-B41A-8DBEC19A0342}|TaskApi-belajar\\TaskApi-belajar.csproj|solutionrelative:taskapi-belajar\\dtos\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\docker-compose.yml",
+              "RelativeDocumentMoniker": "TaskApi-belajar\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\docker-compose.yml",
+              "RelativeToolTip": "TaskApi-belajar\\docker-compose.yml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwDoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-04-13T09:34:57.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\Dockerfile",
+              "RelativeDocumentMoniker": "TaskApi-belajar\\Dockerfile",
+              "ToolTip": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\Dockerfile",
+              "RelativeToolTip": "TaskApi-belajar\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-13T09:32:51.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskApi-belajar\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskApi-belajar\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T08:55:30.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\Services\\Data\\TaskService.cs",
+              "RelativeDocumentMoniker": "TaskApi-belajar\\Services\\Data\\TaskService.cs",
+              "ToolTip": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\Services\\Data\\TaskService.cs",
+              "RelativeToolTip": "TaskApi-belajar\\Services\\Data\\TaskService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T08:48:24.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\DTOs\\TaskResponseDTO.cs",
+              "RelativeDocumentMoniker": "TaskApi-belajar\\DTOs\\TaskResponseDTO.cs",
+              "ToolTip": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\DTOs\\TaskResponseDTO.cs",
+              "RelativeToolTip": "TaskApi-belajar\\DTOs\\TaskResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T08:41:07.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\Services\\Interface\\ITaskService.cs",
+              "RelativeDocumentMoniker": "TaskApi-belajar\\Services\\Interface\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\Services\\Interface\\ITaskService.cs",
+              "RelativeToolTip": "TaskApi-belajar\\Services\\Interface\\ITaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T08:39:55.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\Repositories\\Data\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskApi-belajar\\Repositories\\Data\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\Repositories\\Data\\TaskRepository.cs",
+              "RelativeToolTip": "TaskApi-belajar\\Repositories\\Data\\TaskRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAWwBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T08:36:58.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\Repositories\\Interface\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskApi-belajar\\Repositories\\Interface\\ITaskRepository.cs",
+              "ToolTip": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\Repositories\\Interface\\ITaskRepository.cs",
+              "RelativeToolTip": "TaskApi-belajar\\Repositories\\Interface\\ITaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T08:35:55.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateTaskDTO.cs",
+              "DocumentMoniker": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\DTOs\\CreateTaskDTO.cs",
+              "RelativeDocumentMoniker": "TaskApi-belajar\\DTOs\\CreateTaskDTO.cs",
+              "ToolTip": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\DTOs\\CreateTaskDTO.cs",
+              "RelativeToolTip": "TaskApi-belajar\\DTOs\\CreateTaskDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T08:35:16.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\Program.cs",
+              "RelativeDocumentMoniker": "TaskApi-belajar\\Program.cs",
+              "ToolTip": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\Program.cs",
+              "RelativeToolTip": "TaskApi-belajar\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T07:58:22.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskApi-belajar\\appsettings.json",
+              "ToolTip": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\appsettings.json",
+              "RelativeToolTip": "TaskApi-belajar\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-13T07:40:23.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TaskApi-belajar\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\achma\\source\\repos\\TaskApi-belajar\\TaskApi-belajar\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TaskApi-belajar\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T07:39:44.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
