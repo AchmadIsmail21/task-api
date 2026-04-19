@@ -1,8 +1,6 @@
 services:
   api:
-    build:
-      context: .
-      dockerfile: Dockerfile
+    image: taskapi:latest
     container_name: taskapi
     ports:
       - "8080:8080"
