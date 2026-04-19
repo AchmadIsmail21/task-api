@@ -27,7 +27,7 @@ jobs:
         run: dotnet test TaskApi-belajar/TaskApi-belajar.csproj --no-build
 
       - name: Build Docker Image
-        run: docker build -t taskapi:latest ./TaskApi-belajar
+        run: docker build -t achmad21/taskapi:latest ./TaskApi-belajar
 
       - name: Login to Docker Hub
         run: echo "${{ secrets.DOCKER_PASSWORD }}" | docker login -u "${{ secrets.DOCKER_USERNAME }}" --password-stdin
